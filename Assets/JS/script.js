@@ -48,4 +48,4 @@ for(var i=0; i < questions.length; i++){
 };
 
 
-var intials = prompt("your intials");
+   var intials = prompt("your intials");
