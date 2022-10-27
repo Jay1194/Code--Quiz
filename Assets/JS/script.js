@@ -44,8 +44,6 @@ for(var i=0; i < questions.length; i++){
     } else {
         alert("WRONG Answer!");
     }
-}alert( intials + " Score: " + highScore + "/" + questions.length);
+}var intials = prompt("your intials");
+alert( intials + " Score: " + highScore + "/" + questions.length);
 };
-
-
-   var intials = prompt("your intials");
