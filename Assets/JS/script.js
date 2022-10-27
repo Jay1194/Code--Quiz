@@ -44,7 +44,11 @@ for(var i=0; i < questions.length; i++){
     } else {
         alert("WRONG Answer!");
     }
+<<<<<<< HEAD
 }alert(intials + " Results: " + highScore + "/" + questions.length);
+=======
+}alert( intials + " Score: " + highScore + "/" + questions.length);
+>>>>>>> 3b09878739ef08e27dc99759f6a27ab82284b02b
 };
 
 
