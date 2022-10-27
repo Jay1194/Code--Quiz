@@ -44,7 +44,7 @@ for(var i=0; i < questions.length; i++){
     } else {
         alert("WRONG Answer!");
     }
-}alert("Your Results: " + highScore + "/" + questions.length + intials);
+}alert( intials + " Score: " + highScore + "/" + questions.length);
 };
 
 
